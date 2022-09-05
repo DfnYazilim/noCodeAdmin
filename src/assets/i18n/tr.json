@@ -1,0 +1,256 @@
+{
+  "general": {
+    "Profile": "Profil",
+    "Inbox": "Mesaj Kutusu",
+    "Task": "Görev",
+    "Chats": "Konuşmalar",
+    "Settings": "Ayarlar",
+    "Pricing": "Fiyatlandırma",
+    "FAQ": "SSO",
+    "Logout": "Çıkış"
+  },
+  "theme": {
+    "customizer": "Tema Düzenleyici",
+    "preview": "Düzenle ve Önizle",
+    "skin": "Tema",
+    "light": "Açık",
+    "bordered": "Köşeli",
+    "dark": "Karanlık",
+    "semiDark": "Yarı Karanlık",
+    "routeTransition": "Sayfa Geçişi",
+    "fadeInLeft": "Soldan solarak",
+    "zoomIn": "İçe büyüyerek",
+    "fadeIn": "Kaybolarak",
+    "none": "Hiçbiri",
+    "menuLayout": "Menü Düzeni",
+    "vertical": "Dikey",
+    "horizontal": "Yatay",
+    "Menu Collapsed": "Daralmış Menü",
+    "Menu Hidden": "Gizli Menü",
+    "Navbar Color": "Navbar Rengi",
+    "Navbar Type": "Navbar Tipi",
+    "Floating": "Yüzer",
+    "Sticky": "Yapışkan",
+    "Static": "Statik",
+    "Hidden": "Gizli",
+    "Footer Type": "Footer Tipi"
+  },
+  "NoCompanyCodeFound": "Firma kodu bulunamadı",
+  "login": {
+    "companyCode": "Firma Kodu",
+    "welcome": "KAPOSOFT'a hoşgeldiniz",
+    "title": "Lütfen kullanıcı bilgilerinizi giriniz",
+    "username": "Kullanıcı adı buraya",
+    "password": "Şifre buraya",
+    "phone": "Telefon numaranızı giriniz",
+    "phoneLabel": "Telefon Numarası",
+    "passwordLabel": "Şifre",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "rememberMe": "Beni Hatırla",
+    "sign-in": "Giriş",
+    "newOn": "Yoksa yeni misiniz?",
+    "createAccount": "Hesap oluştur",
+    "or": "veya"
+  },
+  "kapoUsers": {
+    "name": "İsim",
+    "lastname": "Soyisim",
+    "phone": "Telefon",
+    "password": "Şifre",
+    "isActive": "Aktif?",
+    "createdTime": "Oluşturma Zamanı"
+  },
+  "MENU": {
+    "DASHBOARD": {
+      "COLLAPSIBLE": "Dashboards",
+      "BADGE": "2",
+      "ANALYTICS": "Analytics",
+      "ECOMMERCE": "E-Ticaret"
+    },
+    "KAPO": {
+      "SECTION": "KapoSoft Menü",
+      "USERS": "Kullanıcılar",
+      "COMPANY": "Uygulamalar",
+      "CHAT": "Chat",
+      "TODO": "Todo",
+      "CALENDAR": "Calendar",
+      "INVOICE": {
+        "COLLAPSIBLE": "Invoice",
+        "LIST": "List",
+        "PREVIEW": "Preview",
+        "EDIT": "Edit",
+        "ADD": "Add"
+      }
+    },
+    "APPS": {
+      "SECTION": "Uygulamalar",
+      "EMAIL": "E-posta",
+      "CHAT": "Chat",
+      "TODO": "Todo",
+      "CALENDAR": "Takvim",
+      "INVOICE" : {
+        "LIST" : "Listele",
+        "PREVIEW" : "Ön İzle",
+        "EDIT" : "Düzenle",
+        "ADD" : "Ekle"
+      },
+      "ECOMMERCE" : {
+        "SHOP" : "Alışverişs",
+        "DETAIL" : "Detay",
+        "WISHLIST" : "İstek Listesi",
+        "CHECKOUT"  : "Ödeme"
+      },
+      "USER" : {
+        "LIST" : "Listele",
+        "VIEW" : "İncele",
+        "EDIT" : "Düzenle"
+      }
+    },
+    "PAGES": {
+      "AUTH": {
+        "LOGIN1": "Giriş V1",
+        "LOGIN2": "Giriş V2",
+        "REGISTER1": "Kayıt V1",
+        "REGISTER2": "Kayıt V2",
+        "FORGOTPASSWORD1": "Şifremi Unuttum V1",
+        "FORGOTPASSWORD2": "Şifremi Unuttum V2",
+        "RESETPASSWORD1": "Şifre Sıfırla V1",
+        "RESETPASSWORD2": "Şifre Sıfırla V2"
+      },
+      "ACCOUNTSETTINGS": "Hesap Ayarları",
+      "PROFILE": "Profil",
+      "FAQ": "SSO",
+      "KB": "Bilgi Merkezi",
+      "PRICING": "Fiyatlandırma",
+      "BLOG": {
+        "COLLAPSIBLE"  : "Blog",
+        "LIST" : "Listele",
+        "EDIT" : "Düzenle",
+        "DETAILS" : "Detay"
+      },
+      "MAIL" :  {
+        "WELCOME" : "Hoşgeldin",
+       "RESET" : "Reset",
+        "VERIFY" : "Onaylama",
+        "DEACTIVATE" : "Hesap Kapatma",
+        "INVOICE" : "Fatura",
+        "PROMOTIONAL" : "Promosyon"
+      },
+      "MISC": {
+        "COMINGSOON" : "Çok Yakında",
+        "NOTAUTH" : "Yetkiniz Yok",
+        "MAINTENANCE" : "Bakımda",
+        "ERROR" : "Hata"
+      }
+    },
+    "UI": {
+      "TYPOGRAPHY" : "Typography",
+      "COLORS" : "Colors",
+      "FEATHER" : "Feather",
+      "CARDS" : {
+        "BASIC" : "Basic",
+        "ADVANCE" : "Advance",
+        "STATISTICS" : "Statistics",
+        "ANALYTICS" : "Analytics",
+        "ACTIONS" : "Actions"
+      },
+      "COMPONENTS" : {
+        "ALERTS" : "Alerts",
+        "AVATAR" : "Avatar",
+        "BADGES" : "BADGES",
+        "BREADCRUMBS" : "BREADCRUMBS",
+        "BUTTONS" : "BUTTONS",
+        "CAROUSEL" : "CAROUSEL",
+        "COLLAPSE" : "COLLAPSE",
+        "DIVIDER" : "DIVIDER",
+        "DROPDOWNS" : "DROPDOWNS",
+        "GROUP" : "GROUP",
+        "OBJECTS" : "OBJECTS",
+        "MODALS" : "MODALS",
+        "COMPONENT" : "COMPONENT",
+        "PAGINATION" : "PAGINATION",
+        "PBADGES" : "PILL BADGES",
+        "PILLS" : "PILLS",
+        "POPOVERS"  : "POPOVERS",
+        "PROGRESS" : "PROGRESS",
+        "RATINGS" : "RATINGS",
+        "SPINNER" : "SPINNER",
+        "TABS" : "TABS",
+        "TIMELINE"  : "TIMELINE",
+        "TOASTS" : "TOASTS",
+        "TOOLTIPS"  : "TOOLTIPS"
+      },
+      "EX": {
+        "SWEET_ALERTS" : "SWEET_ALERTS",
+        "BLOCKUI" : "BLOCKUI",
+        "TOASTER" : "TOASTER",
+        "SLIDER" : "SLIDER",
+        "DRAGDROP" : "DRAGDROP",
+        "TOUR" : "TOUR",
+        "CLIPBOARD" : "CLIPBOARD",
+        "MEDIAPLAYER" : "MEDIAPLAYER",
+        "CONTEXTMENU"  :"CONTEXTMENU",
+        "SWIPER" : "SWIPER",
+        "TREEVIEW" : "TREEVIEW",
+        "I18N" : "I18N"
+      },
+      "LAYOUTS" :  {
+        "COLLAPSED_MENU" : "COLLAPSED_MENU",
+        "BOXED_LAYOUT" : "BOXED_LAYOUT",
+        "WITHOUT_MENU" : "WITHOUT_MENU",
+        "LAYOUT_EMPTY" :  "LAYOUT_EMPTY",
+        "LAYOUT_BLANK" : "LAYOUT_BLANK"
+      }
+    },
+    "FT": {
+      "ELEMENT": {
+        "INPUT": "INPUT",
+        "INPUTGROUPS": "INPUTGROUPS",
+        "INPUTMASK": "INPUTMASK",
+        "TEXTAREA": "TEXTAREA",
+        "CHECKBOX": "CHECKBOX",
+        "RADIO": "RADIO",
+        "SWITCH": "SWITCH",
+        "SELECT": "SELECT",
+        "NUMBERINPUT": "NUMBERINPUT",
+        "FILEUPLOADER": "FILEUPLOADER",
+        "QUILLEDITOR": "QUILLEDITOR",
+        "FLATPICKER": "FLATPICKER",
+        "DATETIMEPICKER": "DATETIMEPICKER"
+      },
+      "LAYOUTS": "LAYOUTS",
+      "WIZARD": "WIZARD",
+      "VALIDATION": "VALIDATION",
+      "REPEATER": "REPEATER",
+      "TABLE": "TABLE",
+      "DATATABLES": "DATATABLES"
+    },
+    "CM": {
+      "CHARTS": {
+        "APEX": "APEX",
+        "CHARTJS": "CHARTJS"
+      },
+      "MAPS": "Google Maps"
+    },
+    "OTHERS": {
+      "LEVELS": {
+        "SECOND": "SECOND",
+        "SECOND1": {
+          "THIRD": "THIRD",
+          "THIRD1": "THIRD1"
+        }
+      },
+      "DISABLED" : "DISABLED",
+      "DOCUMENTATION" : "DOCUMENTATION",
+      "SUPPORT" : "SUPPORT"
+    }
+  },
+  "kapoApps": {
+    "name": "İsim",
+    "url": "URL",
+    "companyName": "Firma Adı",
+    "code": "Kod"
+  },
+  "isActive": "Aktif mi?",
+  "createdTime": "Oluşturma Zamanı"
+}

@@ -1,0 +1,52 @@
+<div class="content-wrapper container-xxl p-0">
+    <div class="content-body">
+        <!-- content-header component -->
+        <app-content-header [contentHeader]="contentHeader"></app-content-header>
+        <dx-data-grid [dataSource]="dataSource" #dataGrid
+                      [showColumnLines]="true"
+                      [showBorders]="true"
+                      [showRowLines]="true"
+                      [columnAutoWidth]="true"
+                      [allowColumnResizing]="true"
+                      [columnResizingMode]="'widget'"
+                      [allowColumnReordering]="true"
+                      [remoteOperations]="true"
+                      [wordWrapEnabled]="true"
+        >
+            <dxo-editing
+                    mode="row"
+                    [allowUpdating]="true"
+                    [allowAdding]="true"
+                    [allowDeleting]="true"
+                    [selectTextOnEditStart]="true"
+                    [startEditAction]="'click'"
+            >
+            </dxo-editing>
+            <dxo-column-chooser #columnChooser
+                                [enabled]="true"
+                                [allowSearch]="true"
+                                [mode]="'dragAndDrop'"></dxo-column-chooser>
+            <dxo-search-panel [visible]="true"></dxo-search-panel>
+            <!--    <dxo-state-storing [enabled]="true" type="sessionStorage" storageKey="apmTableGenerator_amonraWalking"></dxo-state-storing>-->
+            <dxo-filter-panel [visible]="true"></dxo-filter-panel>
+            <dxo-filter-row [visible]="true"></dxo-filter-row>
+            <dxo-header-filter [visible]="true" [allowSearch]="true"></dxo-header-filter>
+            <dxo-group-panel [visible]="true"></dxo-group-panel>
+            <dxo-paging [pageSize]="20"></dxo-paging>
+            <dxo-pager
+                    [showPageSizeSelector]="true"
+                    [allowedPageSizes]="[5,20,50,100]"
+                    [showInfo]="true">
+            </dxo-pager>
+            <dxo-export [enabled]="true"></dxo-export>
+            <dxi-column dataType="string" dataField="name" caption="{{'kapoApps.name' | translate}}"></dxi-column>
+            <dxi-column dataType="string" dataField="api" caption="{{'kapoApps.url' | translate}}"></dxi-column>
+            <dxi-column dataType="string" dataField="companyName"
+                        caption="{{'kapoApps.companyName' | translate}}"></dxi-column>
+            <dxi-column dataType="number" dataField="code" caption="{{'kapoApps.code' | translate}}"></dxi-column>
+            <dxi-column dataType="boolean" dataField="isActive" caption="{{'isActive' | translate}}"></dxi-column>
+            <dxi-column dataType="datetime" dataField="createdTime"
+                        caption="{{'createdTime' | translate}}"></dxi-column>
+        </dx-data-grid>
+    </div>
+</div>

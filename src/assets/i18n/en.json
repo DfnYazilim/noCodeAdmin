@@ -1,0 +1,255 @@
+{
+  "general": {
+    "Profile": "Profile",
+    "Inbox": "Inbox",
+    "Task": "Task",
+    "Chats": "Chats",
+    "Settings": "Settings",
+    "Pricing": "Pricing",
+    "FAQ": "FAQ",
+    "Logout": "Logout"
+  },
+  "theme": {
+    "customizer": "Theme Customizer",
+    "preview": "Customize & Preview in Real Time",
+    "skin": "Skin",
+    "light": "Light",
+    "bordered": "Bordered",
+    "dark": "Dark",
+    "semiDark": "Semi Dark",
+    "fadeInLeft": "Fade In Left",
+    "zoomIn": "Zoom In",
+    "fadeIn": "Fade In",
+    "none": "None",
+    "menuLayout": "Menü Layout",
+    "vertical": "Vertical",
+    "horizontal": "Horizontal",
+    "Menu Collapsed": "Menu Collapsed",
+    "Menu Hidden": "Menu Hidden",
+    "Navbar Color": "Navbar Color",
+    "Navbar Type": "Navbar Type",
+    "Floating": "Floating",
+    "Sticky": "Sticky",
+    "Static": "Static",
+    "Hidden": "Hidden",
+    "Footer Type": "Footer Type"
+  },
+  "NoCompanyCodeFound": "Company code couldn't be found",
+  "login": {
+    "companyCode": "Company Code",
+    "welcome": "Welcome to KAPOSOFT",
+    "title": "Please enter your credentials",
+    "username": "Enter your user name",
+    "password": "Password here",
+    "phone": "Enter your phone number",
+    "phoneLabel": "Phone",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "sign-in": "Sign In",
+    "newOn": "New on our platform?",
+    "createAccount": "Create an account",
+    "or": "or"
+  },
+  "kapoUsers": {
+    "name": "Name",
+    "lastname": "Lastname",
+    "phone": "Phone",
+    "password": "Password",
+    "isActive": "Is Active?",
+    "createdTime": "Created Time"
+  },
+  "MENU": {
+    "DASHBOARD": {
+      "COLLAPSIBLE": "Dashboards",
+      "BADGE": "2",
+      "ANALYTICS": "Analytics",
+      "ECOMMERCE": "E-Ticaret"
+    },
+    "KAPO": {
+      "SECTION": "KapoSoft Menü",
+      "COMPANY": "Applications",
+      "USERS": "Users",
+      "CHAT": "Chat",
+      "TODO": "Todo",
+      "CALENDAR": "Calendar",
+      "INVOICE": {
+        "COLLAPSIBLE": "Invoice",
+        "LIST": "List",
+        "PREVIEW": "Preview",
+        "EDIT": "Edit",
+        "ADD": "Add"
+      }
+    },
+    "APPS": {
+      "SECTION": "Applications",
+      "EMAIL": "Email",
+      "CHAT": "Chat",
+      "TODO": "Todo",
+      "CALENDAR": "Calendar",
+      "INVOICE": {
+        "LIST": "List",
+        "PREVIEW": "Preview",
+        "EDIT": "Edit",
+        "ADD": "Add"
+      },
+      "ECOMMERCE": {
+        "SHOP": "Shop",
+        "DETAIL": "Detail",
+        "WISHLIST": "Wish List",
+        "CHECKOUT": "Checkout"
+      },
+      "USER": {
+        "LIST": "List",
+        "VIEW": "View",
+        "EDIT": "Edit"
+      }
+    },
+    "PAGES": {
+      "AUTH": {
+        "LOGIN1": "Login V1",
+        "LOGIN2": "Login V2",
+        "REGISTER1": "Register V1",
+        "REGISTER2": "Register V2",
+        "FORGOTPASSWORD1": "Forgot Password V1",
+        "FORGOTPASSWORD2": "Forgot Password V2",
+        "RESETPASSWORD1": "Reset Password V1",
+        "RESETPASSWORD2": "Reset Password V2"
+      },
+      "ACCOUNTSETTINGS": "Account Settings",
+      "PROFILE": "Profile",
+      "FAQ": "FAQ",
+      "KB": "Knowledge Base",
+      "PRICING": "Pricing",
+      "BLOG": {
+        "COLLAPSIBLE": "Blog",
+        "LIST": "List",
+        "EDIT": "Edit",
+        "DETAILS": "Detail"
+      },
+      "MAIL": {
+        "WELCOME": "Welcome",
+        "RESET": "Reset",
+        "VERIFY": "Verify",
+        "DEACTIVATE": "Deactivate",
+        "INVOICE": "Invoice",
+        "PROMOTIONAL": "Promotional"
+      },
+      "MISC": {
+        "COMINGSOON": "Coming Soon",
+        "NOTAUTH": "Not Authorized",
+        "MAINTENANCE": "Maintenance",
+        "ERROR": "Error"
+      }
+    },
+    "UI": {
+      "TYPOGRAPHY": "Typography",
+      "COLORS": "Colors",
+      "FEATHER": "Feather",
+      "CARDS": {
+        "BASIC": "Basic",
+        "ADVANCE": "Advance",
+        "STATISTICS": "Statistics",
+        "ANALYTICS": "Analytics",
+        "ACTIONS": "Actions"
+      },
+      "COMPONENTS": {
+        "ALERTS": "Alerts",
+        "AVATAR": "Avatar",
+        "BADGES": "BADGES",
+        "BREADCRUMBS": "BREADCRUMBS",
+        "BUTTONS": "BUTTONS",
+        "CAROUSEL": "CAROUSEL",
+        "COLLAPSE": "COLLAPSE",
+        "DIVIDER": "DIVIDER",
+        "DROPDOWNS": "DROPDOWNS",
+        "GROUP": "GROUP",
+        "OBJECTS": "OBJECTS",
+        "MODALS": "MODALS",
+        "COMPONENT": "COMPONENT",
+        "PAGINATION": "PAGINATION",
+        "PBADGES": "PILL BADGES",
+        "PILLS": "PILLS",
+        "POPOVERS": "POPOVERS",
+        "PROGRESS": "PROGRESS",
+        "RATINGS": "RATINGS",
+        "SPINNER": "SPINNER",
+        "TABS": "TABS",
+        "TIMELINE": "TIMELINE",
+        "TOASTS": "TOASTS",
+        "TOOLTIPS": "TOOLTIPS"
+      },
+      "EX": {
+        "SWEET_ALERTS": "SWEET_ALERTS",
+        "BLOCKUI": "BLOCKUI",
+        "TOASTER": "TOASTER",
+        "SLIDER": "SLIDER",
+        "DRAGDROP": "DRAGDROP",
+        "TOUR": "TOUR",
+        "CLIPBOARD": "CLIPBOARD",
+        "MEDIAPLAYER": "MEDIAPLAYER",
+        "CONTEXTMENU": "CONTEXTMENU",
+        "SWIPER": "SWIPER",
+        "TREEVIEW": "TREEVIEW",
+        "I18N": "I18N"
+      },
+      "LAYOUTS": {
+        "COLLAPSED_MENU": "COLLAPSED_MENU",
+        "BOXED_LAYOUT": "BOXED_LAYOUT",
+        "WITHOUT_MENU": "WITHOUT_MENU",
+        "LAYOUT_EMPTY": "LAYOUT_EMPTY",
+        "LAYOUT_BLANK": "LAYOUT_BLANK"
+      }
+    },
+    "FT": {
+      "ELEMENT": {
+        "INPUT": "INPUT",
+        "INPUTGROUPS": "INPUTGROUPS",
+        "INPUTMASK": "INPUTMASK",
+        "TEXTAREA": "TEXTAREA",
+        "CHECKBOX": "CHECKBOX",
+        "RADIO": "RADIO",
+        "SWITCH": "SWITCH",
+        "SELECT": "SELECT",
+        "NUMBERINPUT": "NUMBERINPUT",
+        "FILEUPLOADER": "FILEUPLOADER",
+        "QUILLEDITOR": "QUILLEDITOR",
+        "FLATPICKER": "FLATPICKER",
+        "DATETIMEPICKER": "DATETIMEPICKER"
+      },
+      "LAYOUTS": "LAYOUTS",
+      "WIZARD": "WIZARD",
+      "VALIDATION": "VALIDATION",
+      "REPEATER": "REPEATER",
+      "TABLE": "TABLE",
+      "DATATABLES": "DATATABLES"
+    },
+    "CM": {
+      "CHARTS": {
+        "APEX": "APEX",
+        "CHARTJS": "CHARTJS"
+      },
+      "MAPS": "Google Maps"
+    },
+    "OTHERS": {
+      "LEVELS": {
+        "SECOND": "SECOND",
+        "SECOND1": {
+          "THIRD": "THIRD",
+          "THIRD1": "THIRD1"
+        }
+      },
+      "DISABLED" : "DISABLED",
+      "DOCUMENTATION" : "DOCUMENTATION",
+      "SUPPORT" : "SUPPORT"
+    }
+  },
+  "kapoApps": {
+    "name": "Name",
+    "url": "URL",
+    "companyName": "Company Name",
+    "code": "Code"
+  },
+  "isActive": "Is Active?",
+  "createdTime": "Created Time"
+}

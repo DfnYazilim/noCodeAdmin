@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "key": "$base-font-family",
+            "value": "\"Montserrat\",Helvetica,Arial,serif"
+        },
+        {
+            "key": "$datagrid-row-focused-bg",
+            "value": "rgba(115, 103, 240, 1)"
+        },
+        {
+            "key": "$base-accent",
+            "value": "rgba(115, 103, 240, 1)"
+        },
+        {
+            "key": "$base-text-color",
+            "value": "rgba(0, 0, 0, 1)"
+        }
+    ],
+    "baseTheme": "material.orange.light",
+    "outputColorScheme": "kapo-scheme",
+    "makeSwatch": true,
+    "version": "21.2.8",
+    "widgets": [],
+    "removeExternalResources": false
+}
